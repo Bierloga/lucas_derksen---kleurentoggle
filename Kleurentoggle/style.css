@@ -1,0 +1,45 @@
+body {
+    background-color: grey;
+}
+
+.burgerPic {
+    width: 150px;
+    margin-left: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 3px 10px;
+    padding: 10px;
+    border: 1px solid black;
+    display: block;
+    width: 200px;
+    text-align: center;
+}
+
+.home-box {
+    background-color: grey;
+}
+
+.purple-box {
+    background-color: purple;
+}
+
+.green-box {
+    background-color: green;
+}
+
+.red-box {
+    background-color: red;
+}
+
+.orange-box {
+    background-color: orange;
+}
+
+.disappear {
+    opacity: 0;
+}
